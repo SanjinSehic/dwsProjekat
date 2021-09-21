@@ -1,0 +1,16 @@
+.register {
+    padding: 60px 0;
+  }
+.register h1 {
+    font-size: 100px;
+}
+
+.register form {
+    margin: 0 auto;
+    max-width: 320px;
+    text-align: center;
+  }
+
+.register.p {
+    font-size: 20px;
+}

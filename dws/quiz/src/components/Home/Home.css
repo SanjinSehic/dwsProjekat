@@ -1,0 +1,17 @@
+
+.login {
+    padding: 60px 0;
+  }
+.login h1 {
+    font-size: 100px;
+}
+
+.login form {
+    margin: 0 auto;
+    max-width: 320px;
+    text-align: center;
+  }
+
+.login p{
+    font-size: 20px;
+}
